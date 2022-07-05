@@ -1,0 +1,62 @@
+    body,
+    html {
+        /* background-image: linear-gradient(to bottom right, #1d2252, #72aaff, #00ffff); */
+        background-image: url("../images/coronavirus-disease-covid-2019-5060427_1920.jpg");
+        height: 100%;
+        width: 100%;
+        margin: 0;
+    }
+    
+    #header {
+        height: 80px;
+        width: 100%;
+        background-image: linear-gradient(to bottom right, #5b08e9, #9905be, #f613fa);
+        border-radius: 20px;
+        text-align: center;
+        margin-top: 10px;
+    }
+    
+    h1 {
+        color: white;
+        font-family: Arial, Helvetica, sans-serif;
+        text-decoration: solid;
+        font-weight: bold;
+        font-size: 36px;
+        padding-top: 20px;
+    }
+    
+    #body2 {
+        height: 450px;
+        width: 40%;
+        /* background-color: #ff7f50; */
+        backdrop-filter: saturate(180%) blur(5px);
+        background: rgba(0, 0, 0, 0.8);
+        border-radius: 20px;
+        border-bottom: 8px solid rgb(234, 18, 162);
+        margin: auto;
+    }
+    
+    h2 {
+        color: gold;
+        text-align: center;
+        font-family: Arial, Helvetica, sans-serif;
+        font-size: 34px;
+        padding-top: 15px;
+    }
+    
+    table {
+        padding-left: 50px;
+    }
+    
+    td {
+        color: white;
+        font-size: 30px;
+        font-weight: bold;
+        font-family: Arial, Helvetica, sans-serif;
+        padding-top: 20px;
+    }
+    
+    .ans {
+        color: powderblue;
+        font-style: italic;
+    }
